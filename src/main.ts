@@ -1,3 +1,3 @@
-import { printPrimeNumbers } from './toColorNumber/color-number'
+import { printPrimeNumbers } from './toColorNumber/color-number';
 
-new printPrimeNumbers()
+new printPrimeNumbers();
